@@ -1,5 +1,5 @@
 # Onur Atakan ULUSOY
-### Hi there 👋 I am developer on the Pyhton, Django, Java, HTML, CSS, JS and the smilar areas.
+### Hi there 👋 I am developer on the Pyhton, Django, Java, HTML, CSS, JS and the similar areas.
 
 ## Stats
 [![Onur Atakan's github trophy](https://github-profile-trophy.vercel.app/?username=onuratakan&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
