@@ -74,6 +74,8 @@ class Onur_Atakan_ULUSOY:
             ["ONUR Voice Assistant", "https://pypi.org/project/ONUR-Voice-Assistant/"],
         ]
 
+        self.website = "https://onuratakan.github.io/"
+        
         self.cv = "https://onuratakan.github.io/online-cv/"
 
     def dump_json(self):
@@ -109,7 +111,9 @@ if __name__ == "__main__":
     print("\nLibraries:")
     for library in the_onur.libraries:
         print(f"{library[0]}: {library[1]}") 
-     
+    
+    print(f"\nWebsite: {the_onur.website}")
+    
     print(f"\nCV: {the_onur.cv}")
 
 ```
