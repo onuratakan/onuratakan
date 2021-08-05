@@ -53,6 +53,29 @@ class Onur_Atakan_ULUSOY:
             "Blockhain"
         ]
 
+        self.projects = [
+            ["Decentra Network", "https://github.com/Decentra-Network/Decentra-Network"],
+            ["MIXON", "https://github.com/onuratakan/MIXON"],
+            ["(POW) Blockchain Network Infrustructure", "https://github.com/onuratakan/POW-Blockchain-Network-Infrustructure"],
+            ["ONUR Voice Assistant", "https://github.com/onuratakan/ONUR_Voice_Assistant"],
+            ["HACON", "https://github.com/onuratakan/HACON"],
+            ["Site Seo Scanner", "https://github.com/onuratakan/Site_Seo_Scanner"],
+            ["Ask Me Something", "https://github.com/onuratakan/ask_me_something"],
+            ["Say Me Something", "https://github.com/onuratakan/say_me_something"],
+            ["Linear Congruential Generator", "https://github.com/onuratakan/Linear_Congruential_Generator"],
+        ]
+
+        self.libraries = [
+            ["HACON", "https://pypi.org/project/hacon/"],
+            ["Linear Congruential Generator", "https://pypi.org/project/Linear-Congruential-Generator/"],
+            ["Site Seo Scanner", "https://pypi.org/project/Site-Seo-Scanner/"],
+            ["Say Me Something", "https://pypi.org/project/say-me-something/"],
+            ["Ask Me Something", "https://pypi.org/project/ask-me-something/"],
+            ["ONUR Voice Assistant", "https://pypi.org/project/ONUR-Voice-Assistant/"],
+        ]
+
+        self.cv = "https://onuratakan.github.io/online-cv/"
+
     def dump_json(self):
         """
         Returns a json containing the Onur_Atakan_ULUSOY data.
@@ -76,6 +99,17 @@ class Onur_Atakan_ULUSOY:
 
 
 if __name__ == "__main__":
-    print(Onur_Atakan_ULUSOY().get_hash())
+    the_onur = Onur_Atakan_ULUSOY()
+    print(f"ID: {the_onur.get_hash()}")
+
+    print("\nProjects:")
+    for project in the_onur.projects:
+        print(f"{project[0]}: {project[1]}")
+
+    print("\nLibraries:")
+    for library in the_onur.libraries:
+        print(f"{library[0]}: {library[1]}") 
+     
+    print(f"\nCV: {the_onur.cv}")
 
 ```
