@@ -63,6 +63,7 @@ class Onur_Atakan_ULUSOY:
             ["Ask Me Something", "https://github.com/onuratakan/ask_me_something"],
             ["Say Me Something", "https://github.com/onuratakan/say_me_something"],
             ["Linear Congruential Generator", "https://github.com/onuratakan/Linear_Congruential_Generator"],
+            ["Get Crypto Price", "https://github.com/onuratakan/get_crypto_price"],
         ]
 
         self.libraries = [
@@ -72,6 +73,7 @@ class Onur_Atakan_ULUSOY:
             ["Say Me Something", "https://pypi.org/project/say-me-something/"],
             ["Ask Me Something", "https://pypi.org/project/ask-me-something/"],
             ["ONUR Voice Assistant", "https://pypi.org/project/ONUR-Voice-Assistant/"],
+            ["Get Crypto Price", "https://pypi.org/project/get-crypto-price/"],
         ]
 
         self.website = "https://onuratakan.github.io/"
