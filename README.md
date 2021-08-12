@@ -65,6 +65,7 @@ class Onur_Atakan_ULUSOY:
             ["Linear Congruential Generator", "https://github.com/onuratakan/Linear_Congruential_Generator"],
             ["Get Crypto Price", "https://github.com/onuratakan/get_crypto_price"],
             ["RSI Calculator", "https://github.com/onuratakan/rsi_calculator"],
+            ["TD Sequential Calculator", "https://github.com/onuratakan/td_sequential_calculator"],
         ]
 
         self.libraries = [
@@ -76,6 +77,7 @@ class Onur_Atakan_ULUSOY:
             ["ONUR Voice Assistant", "https://pypi.org/project/ONUR-Voice-Assistant/"],
             ["Get Crypto Price", "https://pypi.org/project/get-crypto-price/"],
             ["RSI Calculator", "https://pypi.org/project/rsi-calculator/"],
+            ["TD Sequential Calculator", "https://pypi.org/project/td-sequential-calculator/"],
         ]
 
         self.website = "https://onuratakan.github.io/"
