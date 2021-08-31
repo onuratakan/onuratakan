@@ -83,6 +83,8 @@ class Onur_Atakan_ULUSOY:
         self.website = "https://onuratakan.github.io/"
         
         self.cv = "https://onuratakan.github.io/online-cv/"
+        
+        self.linkedin = "https://www.linkedin.com/in/onur-atakan-ulusoy/"
 
     def dump_json(self):
         """
@@ -121,5 +123,7 @@ if __name__ == "__main__":
     print(f"\nWebsite: {the_onur.website}")
     
     print(f"\nCV: {the_onur.cv}")
+    
+    print(f"\nLinkedIn: {the_onur.linkedin}")
 
 ```
