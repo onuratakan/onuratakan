@@ -66,6 +66,7 @@ class Onur_Atakan_ULUSOY:
             ["Get Crypto Price", "https://github.com/onuratakan/get_crypto_price"],
             ["RSI Calculator", "https://github.com/onuratakan/rsi_calculator"],
             ["TD Sequential Calculator", "https://github.com/onuratakan/td_sequential_calculator"],
+            ["Haimgard", "https://github.com/onuratakan/Haimgard"],
         ]
 
         self.libraries = [
@@ -78,6 +79,7 @@ class Onur_Atakan_ULUSOY:
             ["Get Crypto Price", "https://pypi.org/project/get-crypto-price/"],
             ["RSI Calculator", "https://pypi.org/project/rsi-calculator/"],
             ["TD Sequential Calculator", "https://pypi.org/project/td-sequential-calculator/"],
+            ["Haimgard", "https://pypi.org/project/haimgard/"],
         ]
 
         self.website = "https://onuratakan.github.io/"
