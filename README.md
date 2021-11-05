@@ -67,7 +67,8 @@ class Onur_Atakan_ULUSOY:
             ["RSI Calculator", "https://github.com/onuratakan/rsi_calculator"],
             ["TD Sequential Calculator", "https://github.com/onuratakan/td_sequential_calculator"],
             ["Haimgard", "https://github.com/onuratakan/Haimgard"],
-            ["Speed Calculator", "https://github.com/onuratakan/speed_calculator"]
+            ["Speed Calculator", "https://github.com/onuratakan/speed_calculator"],
+            ["Blur Image", "https://github.com/onuratakan/blur_image"]
         ]
 
         self.libraries = [
@@ -81,7 +82,8 @@ class Onur_Atakan_ULUSOY:
             ["RSI Calculator", "https://pypi.org/project/rsi-calculator/"],
             ["TD Sequential Calculator", "https://pypi.org/project/td-sequential-calculator/"],
             ["Haimgard", "https://pypi.org/project/haimgard/"],
-            ["Speed Calculator", "https://pypi.org/project/speed-calculator/"]
+            ["Speed Calculator", "https://pypi.org/project/speed-calculator/"],
+            ["Blur Image", "https://pypi.org/project/blur-image/"]
         ]
 
         self.website = "https://onuratakan.github.io/"
