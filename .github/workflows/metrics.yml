@@ -91,7 +91,6 @@ jobs:
           plugin_skyline_quality: 0.5
           plugin_skyline_year: current-year
           plugin_stargazers: yes
-          plugin_support: yes
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: starred
