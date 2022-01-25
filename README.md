@@ -137,3 +137,8 @@ if __name__ == "__main__":
     print(f"\nLinkedIn: {the_onur.linkedin}")
 
 ```
+
+# Details
+<details>
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+</details>
