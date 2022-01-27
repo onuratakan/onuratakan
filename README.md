@@ -142,5 +142,11 @@ if __name__ == "__main__":
 
 # Details
 <details>
+  <p align="center">
   <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+   </p>
+  <br>
+  <p align="center">
+  In 2021, I made 1614 contributions and modified 53,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/onuratakan
+  </p>
 </details>
