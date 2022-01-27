@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/onuratakan">
     <img src="https://avatars.githubusercontent.com/u/41792982?v=4" alt="Avatar" width="260" height="260">
@@ -10,16 +9,19 @@
     Hi there 👋 I’m currently working on the Python, Django, WEB, WordPress, Java, Robotics, Image Proccessing, Cyber Security and Blockchain.
     <br />
     <br />
+<p align="center">
+  <img src="https://api.githubtrends.io/user/svg/onuratakan/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" alt="Most Used Languages" width="35%" />
+  <img src="https://api.githubtrends.io/user/svg/onuratakan/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" alt="Most Contributed Repositories" width="35%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuratakan&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Most used languages">
-  <br />
+</p>
+<p align="center">
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=onuratakan&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" alt="Onur Atakan's github stats">
 
   <br />
   <br />
   
-  <img src="https://github-profile-trophy.vercel.app/?username=onuratakan&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy" alt="Onur Atakan's github trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=onuratakan&theme=darkhub&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy" alt="Onur Atakan's github trophy">
   
   </p>
 </p>
