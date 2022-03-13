@@ -84,9 +84,9 @@ jobs:
           plugin_reactions_limit_discussions_comments: 100
           plugin_reactions_limit_issues: 100
           plugin_repositories: 1000
-          plugin_repositories_affiliations: owner
+          plugin_repositories_affiliations: contributor
           plugin_repositories_batch: 100
-          plugin_repositories_featured: Decentra-Network        
+          plugin_repositories_featured: Decentra-Network/Decentra-Network, Decentra-Network/Blockchain-Lab, starkbank/ecdsa-python, onuratakan/Linear_Congruential_Generator, onuratakan/MIXON, onuratakan/ONUR_Voice_Assistant, onuratakan/HACON, onuratakan/ask_me_something, onuratakan/say_me_something, onuratakan/get_crypto_price, onuratakan/rsi_calculator, onuratakan/td_sequential_calculator, onuratakan/Haimgard, onuratakan/speed_calculator, onuratakan/blur_image    
           plugin_skyline: yes
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
