@@ -86,6 +86,7 @@ jobs:
           plugin_repositories: 1000
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
+          plugin_repositories_featured: Decentra-Network        
           plugin_skyline: yes
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
