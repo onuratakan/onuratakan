@@ -76,7 +76,9 @@ class Onur_Atakan_ULUSOY:
             ["TD Sequential Calculator", "https://github.com/onuratakan/td_sequential_calculator"],
             ["Haimgard", "https://github.com/onuratakan/Haimgard"],
             ["Speed Calculator", "https://github.com/onuratakan/speed_calculator"],
-            ["Blur Image", "https://github.com/onuratakan/blur_image"]
+            ["Blur Image", "https://github.com/onuratakan/blur_image"],
+            ["My System Monitor", "https://github.com/onuratakan/mysystemmonitor"],
+            ["GitHub Full Backup", "https://github.com/onuratakan/GitHub-Full-Backup"]
         ]
 
         self.libraries = [
@@ -92,6 +94,8 @@ class Onur_Atakan_ULUSOY:
             ["Haimgard", "https://pypi.org/project/haimgard/"],
             ["Speed Calculator", "https://pypi.org/project/speed-calculator/"],
             ["Blur Image", "https://pypi.org/project/blur-image/"]
+            ["My System Monitor", "https://pypi.org/project/mysystemmonitor/"],
+            ["GitHub Full Backup", "https://pypi.org/project/GitHub-Full-Backup/"]            
         ]
 
         self.website = "https://onuratakan.github.io/"
