@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4522" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4232" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4321 Commits
+                            4322 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.17m added, 158k removed
+                                    897k added, 9.36k removed
                                 </div>
                             </section>
                             <section>
@@ -392,14 +392,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.8240527174875" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="346.8240527174875" y="0" width="32.90022337507367" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="379.7242760925612" y="0" width="32.713461440514564" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="412.43773753307573" y="0" width="31.36574090916808" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="443.8034784422439" y="0" width="11.414121864320865" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="455.2176003065647" y="0" width="3.836317731033128" height="8" fill="#1da6e0"/>
-                    <rect mask="url(#languages-bar)" x="459.05391803759784" y="0" width="0.6294568905510646" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.68337492814896" y="0" width="0.31662507185110267" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.8266877764536" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="346.8266877764536" y="0" width="32.89945736400267" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="379.72614514045625" y="0" width="32.71269977779427" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="412.43884491825054" y="0" width="31.365010625227068" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="443.8038555434776" y="0" width="11.413856110997122" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="455.2177116544747" y="0" width="3.836228410610578" height="8" fill="#1da6e0"/>
+                    <rect mask="url(#languages-bar)" x="459.0539400650853" y="0" width="0.6294422349986879" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.683382300084" y="0" width="0.3166176999160362" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1406,7 +1406,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 39.7 characters per line of code written</li>
+                        <li>Has approximately 44.1 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -3697,6 +3697,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Naruno/Naruno</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c9df46d</div>
+                                        <div class="message">blockchain: Added a user</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -3759,102 +3779,6 @@
                                     <div class="commit">
                                         <div class="sha">#90d59f8</div>
                                         <div class="message">blockchain: Added new users</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 172 commits in
-                                        <span class="repo">onuratakan/sweep</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8290c68</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/main' into feat/extension-mvp</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec49ffa</div>
-                                        <div class="message">improved sweep extension</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#400be18</div>
-                                        <div class="message">improved sweep extension</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5b3f04</div>
-                                        <div class="message">temporary fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#58d1ae3</div>
-                                        <div class="message">temporary fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80ab70a</div>
-                                        <div class="message">Extension mvp</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6db0f06</div>
-                                        <div class="message">Hotfix for modal async stubs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39309d2</div>
-                                        <div class="message">Updated E2B version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#163f636</div>
-                                        <div class="message">Merge branch 'main' into feature/python-sandbox</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8adb2c</div>
-                                        <div class="message">Fixed commands</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#581913e</div>
-                                        <div class="message">Sandbox formatting in on_ticket</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfad524</div>
-                                        <div class="message">Minor refactoring and custom install command support</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c61e59d</div>
-                                        <div class="message">Added lint and format command</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4f835c</div>
-                                        <div class="message">Created async on_ticket function and moved sandbox logic</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#775123e</div>
-                                        <div class="message">Change branch in git repo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#405f0b8</div>
-                                        <div class="message">Added repo to command</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eaa548b</div>
-                                        <div class="message">Fixed user dirs in sandbox</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d6756c</div>
-                                        <div class="message">Setup commandline on init</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef22d17</div>
-                                        <div class="message">Close after executing code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eaa7ec6</div>
-                                        <div class="message">Fixed CLI for user commands</div>
                                     </div>
                                 </div>
                             </section>
@@ -3987,7 +3911,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 15 Aug 2023, 17:33:05
+                            On 15 Aug 2023, 17:42:45
                         </div>
                     </section>
                 </div>
@@ -4003,8 +3927,8 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">8e35ce79</span>
-                            <span class="code">src/kot/__init__.py</span>
+                            <span class="code">fd81f347</span>
+                            <span class="code">setups/gui/setup.py</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -4015,14 +3939,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -2,5 +2,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">from .kot import HASHES<br /></span><span class="token prefix unchanged">·</span><span class="token line">from .kot import KOT_serial<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">__version__ = '0.24.0'<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">__version__ = '0.23.2'<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -5,7 +5,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">setup(<br /></span><span class="token prefix unchanged">·</span><span class="token line">name="kot_gui",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">version='0.24.0',<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">version='0.23.2',<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">description="""This is GUI package for KOT""",<br /></span><span class="token prefix unchanged">·</span><span class="token line">url="https://github.com/onuratakan/KOT",<br /></span><span class="token prefix unchanged">·</span><span class="token line">author='Onur Atakan ULUSOY',</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Aug 2023, 15:07:55 (timezone Europe/Istanbul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Aug 2023, 16:06:21 (timezone Europe/Istanbul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
