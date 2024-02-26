@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4190" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4097" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    13.4k added, 3.95k removed
+                                    764k added, 5.93k removed
                                 </div>
                             </section>
                             <section>
@@ -567,8 +567,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="319.13 329"/>
-                                <text x="60" y="60" dominant-baseline="central">97</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
+                                <text x="60" y="60" dominant-baseline="central">98</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -3521,7 +3521,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.61m out of 101m repositories</span>
+                                    <span class="gh">ranked 1.61m out of 76.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 6 times</div>
                             </div>
@@ -3559,7 +3559,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.42m out of 101m repositories</span>
+                                    <span class="gh">ranked 1.42m out of 76.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 15 stars</div>
                             </div>
@@ -3786,9 +3786,9 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">45eface7</span>
-                            <span class="code">upsonic_on_prem/dash/static/images/documents.svg</span>
+                            <span class="code">upsonic_on_prem/dash/static/images/readonly.svg</span>
                             <span class="code">
-                                <span class="snippet additions">++6</span>
+                                <span class="snippet additions">++5</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -3797,14 +3797,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,6 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;svg width="12" height="10" viewBox="0 0 12 10" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;path d="M1.5 8.66667H4.66667C5.40305 8.66667 6 9.26362 6 10V4.5C6 3.10218 6 2.40326 5.77164 1.85195C5.46716 1.11687 4.88313 0.532843 4.14805 0.228361C3.59674 0 2.89782 0 1.5 0C1.03406 0 0.801087 0 0.617316 0.0761205C0.372288 0.177614 0.177614 0.372288 0.0761204 0.617317C0 0.801088 0 1.03406 0 1.5V7.16667C0 7.63261 0 7.86558 0.0761204 8.04935C0.177614 8.29438 0.372288 8.48905 0.617316 8.59055C0.801087 8.66667 1.03406 8.66667 1.5 8.66667Z"<br /></span><span class="token prefix inserted">+</span><span class="token line">      fill="#4D38FF"/&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;path d="M10.5 8.66667H7.33333C6.59695 8.66667 6 9.26362 6 10V4.5C6 3.10218 6 2.40326 6.22836 1.85195C6.53284 1.11687 7.11687 0.532843 7.85195 0.228361C8.40326 0 9.10218 0 10.5 0C10.9659 0 11.1989 0 11.3827 0.0761205C11.6277 0.177614 11.8224 0.372288 11.9239 0.617317C12 0.801088 12 1.03406 12 1.5V7.16667C12 7.63261 12 7.86558 11.9239 8.04935C11.8224 8.29438 11.6277 8.48905 11.3827 8.59055C11.1989 8.66667 10.9659 8.66667 10.5 8.66667Z"<br /></span><span class="token prefix inserted">+</span><span class="token line">      fill="#4D38FF"/&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;/svg&gt;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,5 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;svg width="43" height="30" viewBox="0 0 43 30" fill="none" xmlns="http://www.w3.org/2000/svg"&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;path d="M21.2681 1C9.27837 1 3.07852 10.9983 1.44532 14.0961C1.22823 14.5079 1.11969 14.7138 1.13267 14.9863C1.14565 15.2589 1.27481 15.4559 1.53313 15.8498C3.52231 18.8835 10.9306 29 21.2681 29C31.6056 29 39.0139 18.8835 41.0031 15.8498C41.2614 15.4559 41.3906 15.2589 41.4036 14.9863C41.4166 14.7138 41.308 14.5079 41.0909 14.0961C39.4577 10.9983 33.2579 1 21.2681 1Z"<br /></span><span class="token prefix inserted">+</span><span class="token line">      stroke="#01EE8A" stroke-width="2"/&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;ellipse cx="21.2679" cy="14.9995" rx="6.08044" ry="6" stroke="#01EE8A" stroke-width="2"/&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;/svg&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Feb 2024, 12:06:17 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Feb 2024, 13:06:37 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
