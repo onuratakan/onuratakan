@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    111k added, 5.75k removed
+                                    785k added, 3.21k removed
                                 </div>
                             </section>
                             <section>
@@ -1366,8 +1366,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
-                                <text x="60" y="60" dominant-baseline="central">98</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="319.13 329"/>
+                                <text x="60" y="60" dominant-baseline="central">97</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -4344,7 +4344,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.85m out of 98.3m repositories</span>
+                                    <span class="gh">ranked 1.85m out of 84.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -4415,7 +4415,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.38m out of 98.3m repositories</span>
+                                    <span class="gh">ranked 1.38m out of 84.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 16 stars</div>
                             </div>
@@ -4660,7 +4660,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">Upsonic/.github</span>
+                            <span class="blue space">Upsonic/Upsonic</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -4668,7 +4668,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 3 Apr 2024, 01:14:43
+                            On 3 Apr 2024, 01:15:22
                         </div>
                     </section>
                 </div>
@@ -4684,8 +4684,8 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">803b904f</span>
-                            <span class="code">profile/README.md</span>
+                            <span class="code">78ac2171</span>
+                            <span class="code">README.md</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -4696,14 +4696,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -18,7 +18,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  &lt;td align="center" valign="top" width="14.28%"&gt;&lt;img src="https://github.com/Upsonic/.github/assets/41792982/2a0d11ea-9185-4da5-8a5c-990b7f58ce2f" width="100px;" alt="Burak Emre Kabakçı"/&gt;&lt;br /&gt;&lt;b&gt;Burak Emre Kabakçı&lt;/b&gt;&lt;br /&gt; &lt;sub&gt;Sr. Staff Software Engineer &amp; Maker &lt;/sub&gt;&lt;br /&gt; LiveRamp &lt;br /&gt;&lt;a href="https://www.linkedin.com/in/burak-emre-kabakc%C4%B1-15b2bb33/" title="Linkedin"&gt;Linkedin&lt;/a&gt;&lt;/td&gt; <br /></span><span class="token prefix unchanged">·</span><span class="token line">  &lt;td align="center" valign="top" width="14.28%"&gt;&lt;img src="https://github.com/Upsonic/.github/assets/41792982/0de9cc2d-1f86-46ce-9533-46688c1c836a" width="100px;" alt="Ozge Oz"/&gt;&lt;br /&gt;&lt;b&gt;Ozge Oz&lt;/b&gt;&lt;br /&gt; &lt;sub&gt;Partner &lt;/sub&gt;&lt;br /&gt;&lt;br /&gt; QNBEYOND Ventures &lt;br /&gt;&lt;a href="https://www.linkedin.com/in/ozge-oz/" title="Linkedin"&gt;Linkedin&lt;/a&gt;&lt;/td&gt;   <br /></span><span class="token prefix unchanged">·</span><span class="token line">  &lt;td align="center" valign="top" width="14.28%"&gt;&lt;img src="https://github.com/Upsonic/.github/assets/41792982/cc4baafd-973b-490a-91fd-1e2caeeded32" width="100px;" alt="Emre Keskin"/&gt;&lt;br /&gt;&lt;b&gt;Emre Keskin&lt;/b&gt;&lt;br /&gt; &lt;sub&gt;Staff Software Engineer &lt;/sub&gt;&lt;br /&gt;&lt;br /&gt; Oplog &lt;br /&gt;&lt;a href="https://www.linkedin.com/in/emrekesk-in/" title="Linkedin"&gt;Linkedin&lt;/a&gt;&lt;/td&gt;     <br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  &lt;td align="center" valign="top" width="14.28%"&gt;&lt;img src="https://github.com/Upsonic/.github/assets/41792982/624efaa6-8a90-4598-bf4d-816fa8d32d12" width="100px;" alt="Emre Doğaner"/&gt;&lt;br /&gt;&lt;b&gt;Emre Doğaner&lt;/b&gt;&lt;br /&gt; &lt;sub&gt;Fractional CMO for B2B SAAS&lt;/sub&gt;&lt;br /&gt;&lt;br /&gt; Funnelepic LLC &lt;br /&gt;&lt;a href="https://www.linkedin.com/in/emre-doganer/" title="Linkedin"&gt;Linkedin&lt;/a&gt;&lt;/td&gt;      <br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  &lt;td align="center" valign="top" width="14.28%"&gt;&lt;img src="https://github.com/Upsonic/.github/assets/41792982/624efaa6-8a90-4598-bf4d-816fa8d32d12" width="100px;" alt="Emre Doğaner"/&gt;&lt;br /&gt;&lt;b&gt;Emre Doğaner&lt;/b&gt;&lt;br /&gt; &lt;sub&gt;Fractional CMO for B2B SAAS&lt;/sub&gt;&lt;br /&gt;&lt;br /&gt; Funnelepic&lt;br /&gt;&lt;a href="https://www.linkedin.com/in/emre-doganer/" title="Linkedin"&gt;Linkedin&lt;/a&gt;&lt;/td&gt;      <br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  &lt;/tr&gt;    <br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/tbody&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/table&gt;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -108,7 +108,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  &lt;td align="center" valign="top" width="14.28%"&gt;&lt;img src="https://github.com/Upsonic/.github/assets/41792982/2a0d11ea-9185-4da5-8a5c-990b7f58ce2f" width="100px;" alt="Burak Emre Kabakçı"/&gt;&lt;br /&gt;&lt;b&gt;Burak Emre Kabakçı&lt;/b&gt;&lt;br /&gt; &lt;sub&gt;Sr. Staff Software Engineer &amp; Maker &lt;/sub&gt;&lt;br /&gt; LiveRamp &lt;br /&gt;&lt;a href="https://www.linkedin.com/in/burak-emre-kabakc%C4%B1-15b2bb33/" title="Linkedin"&gt;Linkedin&lt;/a&gt;&lt;/td&gt; <br /></span><span class="token prefix unchanged">·</span><span class="token line">  &lt;td align="center" valign="top" width="14.28%"&gt;&lt;img src="https://github.com/Upsonic/.github/assets/41792982/0de9cc2d-1f86-46ce-9533-46688c1c836a" width="100px;" alt="Ozge Oz"/&gt;&lt;br /&gt;&lt;b&gt;Ozge Oz&lt;/b&gt;&lt;br /&gt; &lt;sub&gt;Partner &lt;/sub&gt;&lt;br /&gt;&lt;br /&gt; QNBEYOND Ventures &lt;br /&gt;&lt;a href="https://www.linkedin.com/in/ozge-oz/" title="Linkedin"&gt;Linkedin&lt;/a&gt;&lt;/td&gt;   <br /></span><span class="token prefix unchanged">·</span><span class="token line">  &lt;td align="center" valign="top" width="14.28%"&gt;&lt;img src="https://github.com/Upsonic/.github/assets/41792982/cc4baafd-973b-490a-91fd-1e2caeeded32" width="100px;" alt="Emre Keskin"/&gt;&lt;br /&gt;&lt;b&gt;Emre Keskin&lt;/b&gt;&lt;br /&gt; &lt;sub&gt;Staff Software Engineer &lt;/sub&gt;&lt;br /&gt;&lt;br /&gt; Oplog &lt;br /&gt;&lt;a href="https://www.linkedin.com/in/emrekesk-in/" title="Linkedin"&gt;Linkedin&lt;/a&gt;&lt;/td&gt;     <br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  &lt;td align="center" valign="top" width="14.28%"&gt;&lt;img src="https://github.com/Upsonic/.github/assets/41792982/624efaa6-8a90-4598-bf4d-816fa8d32d12" width="100px;" alt="Emre Doğaner"/&gt;&lt;br /&gt;&lt;b&gt;Emre Doğaner&lt;/b&gt;&lt;br /&gt; &lt;sub&gt;Fractional CMO for B2B SAAS&lt;/sub&gt;&lt;br /&gt;&lt;br /&gt; Funnelepic LLC &lt;br /&gt;&lt;a href="https://www.linkedin.com/in/emre-doganer/" title="Linkedin"&gt;Linkedin&lt;/a&gt;&lt;/td&gt;      <br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  &lt;td align="center" valign="top" width="14.28%"&gt;&lt;img src="https://github.com/Upsonic/.github/assets/41792982/624efaa6-8a90-4598-bf4d-816fa8d32d12" width="100px;" alt="Emre Doğaner"/&gt;&lt;br /&gt;&lt;b&gt;Emre Doğaner&lt;/b&gt;&lt;br /&gt; &lt;sub&gt;Fractional CMO for B2B SAAS&lt;/sub&gt;&lt;br /&gt;&lt;br /&gt; Funnelepic &lt;br /&gt;&lt;a href="https://www.linkedin.com/in/emre-doganer/" title="Linkedin"&gt;Linkedin&lt;/a&gt;&lt;/td&gt;      <br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  &lt;/tr&gt;    <br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/tbody&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/table&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Apr 2024, 20:06:19 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Apr 2024, 21:07:33 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
