@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="5358" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="5321" class="">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 259 users
+                            Followed by 260 users
                         </div>
                     </section>
                     <section>
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            248 issue comments
+                            249 issue comments
                         </div>
                     </section>
                     <section>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    26.7k added, 6.89k removed
+                                    407k added, 153k removed
                                 </div>
                             </section>
                             <section>
@@ -204,13 +204,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    2815 Stargazers
+                                    2850 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    247 Forkers
+                                    249 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    64.6k views in last two weeks
+                                    65.8k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -247,11 +247,11 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="13.598901098901099" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="13.598901098901099" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="13.598901098901099" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="13.598901098901099" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="13.598901098901099" y="0" width="206.4010989010989" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="13.882030178326474" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="13.882030178326474" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="13.882030178326474" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="13.882030178326474" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="13.882030178326474" y="0" width="206.1179698216735" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -262,7 +262,7 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">45 <small>open</small></span>
+                                <span class="no-wrap">46 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -292,13 +292,13 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="5.3308480894687795" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="5.3308480894687795" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="5.3308480894687795" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="5.3308480894687795" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="5.3308480894687795" y="0" width="25.424044734389565" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="30.754892823858345" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="30.754892823858345" y="0" width="189.24510717614166" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="5.32093023255814" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="5.32093023255814" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="5.32093023255814" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="5.32093023255814" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="5.32093023255814" y="0" width="25.58139534883721" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="30.90232558139535" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="30.90232558139535" y="0" width="189.09767441860464" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -312,7 +312,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">923 <small>merged</small></span>
+                                <span class="no-wrap">924 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -325,7 +325,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#da3633" fill-rule="evenodd" d="M10.72 1.227a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.061l-.97.97.97.97a.75.75 0 01-1.06 1.06l-.97-.97-.97.97a.75.75 0 11-1.06-1.06l.97-.97-.97-.97a.75.75 0 010-1.06zM12.75 6.5a.75.75 0 00-.75.75v3.378a2.251 2.251 0 101.5 0V7.25a.75.75 0 00-.75-.75zm0 5.5a.75.75 0 100 1.5.75.75 0 000-1.5zM2.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.25 1a2.25 2.25 0 00-.75 4.372v5.256a2.251 2.251 0 101.5 0V5.372A2.25 2.25 0 003.25 1zm0 11a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">124 <small>closed</small></span>
+                                <span class="no-wrap">125 <small>closed</small></span>
                             </div>
                         </div>
                     </section>
@@ -392,14 +392,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="336.9019900923434" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="336.9019900923434" y="0" width="31.386872933494683" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="368.2888630258381" y="0" width="31.208701708272503" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="399.4975647341106" y="0" width="29.92297387034899" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="429.4205386044596" y="0" width="13.38966336642827" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="442.8102019708879" y="0" width="10.889093016744912" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="453.69929498763275" y="0" width="5.7002019940257895" height="8" fill="#1da6e0"/>
-                    <rect mask="url(#languages-bar)" x="459.39949698165856" y="0" width="0.6005030183414277" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="336.96507456073203" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="336.96507456073203" y="0" width="31.370787992764317" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="368.3358625534963" y="0" width="31.192708075574114" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="399.5285706290705" y="0" width="29.90763913910002" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="429.4362097681705" y="0" width="13.382801518734652" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="442.81901128690515" y="0" width="10.883512645098685" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="453.7025239320038" y="0" width="5.697280791540302" height="8" fill="#1da6e0"/>
+                    <rect mask="url(#languages-bar)" x="459.3998047235441" y="0" width="0.6001952764558665" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1413,7 +1413,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 113 commits)</small>
+                    <small class="h-details">(computed from last 109 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -3490,58 +3490,58 @@
                             </div>
                             <div class="entry">
                                 <span class="value">103</span>
-                                <div class="bar" style="height: 2.535003684598379px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 2.5345580210985816px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 26
                             </div>
                             <div class="entry">
                                 <span class="value">104</span>
-                                <div class="bar" style="height: 2.5525055268975683px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 2.5518370316478722px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 27
                             </div>
                             <div class="entry">
                                 <span class="value">110</span>
-                                <div class="bar" style="height: 2.657516580692705px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 2.6555110949436163px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 28
                             </div>
                             <div class="entry">
                                 <span class="value">117</span>
-                                <div class="bar" style="height: 2.7800294767870306px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 2.7764641687886504px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 29
                             </div>
                             <div class="entry">
                                 <span class="value">119</span>
-                                <div class="bar" style="height: 2.815033161385409px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 2.8110221898872316px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 30
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 2.815033161385409px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 2.8110221898872316px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 31
                             </div>
                             <div class="entry">
                                 <span class="value">225</span>
-                                <div class="bar" style="height: 4.670228445099484px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 4.642597308112041px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 1
                                 <div class="bottom">June</div>
                             </div>
                             <div class="entry">
                                 <span class="value">360</span>
-                                <div class="bar" style="height: 7.032977155490052px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 6.97526373226628px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 2
                             </div>
                             <div class="entry">
                                 <span class="value">893</span>
-                                <div class="bar" style="height: 16.361459100957994px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 16.184976355038195px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 3
                             </div>
                             <div class="entry">
                                 <span class="value">1.95k</span>
-                                <div class="bar" style="height: 34.89591009579956px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 34.48344852673699px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 4
                             </div>
                             <div class="entry">
-                                <span class="value">2.81k</span>
-                                <div class="bar" style="height: 49.99999999999999px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">2.85k</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 5
                             </div>
                         </div>
@@ -3617,8 +3617,8 @@
                                 4
                             </div>
                             <div class="entry">
-                                <span class="value">+863</span>
-                                <div class="bar" style="height: 40.745986779981116px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">+898</span>
+                                <div class="bar" style="height: 42.39848914069878px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 5
                             </div>
                         </div>
@@ -3630,10 +3630,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    259 followers
+                    260 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgcBAwQF/8QAKBAAAQIFAwQBBQAAAAAAAAAAAQIDAAQFBhEHEjETISJRQSUyYXHw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgUBAwb/xAAfEQACAgICAwEAAAAAAAAAAAABAgADBBExQQUSIVH/2gAMAwEAAhEDEQA/AIxRmyp4RX7VrjtGlO43tHlJOIm1ty+9YMdVy3B0GmpaSwfkqMTc7BdLyZlb6RlWejD53K9SZem3g67hIa6asuN8gj2PUYuC4TQJ8U2QaKJdlCQkbDBTT+fKKQ/UGFBD7iSDjkf3aPRReCgCJuWafcBxvXyRFeMzWIVfkGJsvEauzScfm4b07ojtSQ64MBtpsklXHEA6hJrNTyAAN2zyI7H9RbrASJbT595nxccVsUfYxETrI+rMOZO9TgyffEHfvQMaYNxfKsXoRva9OmJGUdZcdacLhBw2O/HzCeUtJ6YZ6rngVnIH4jRp/LoXds4V5UAhOEnj7BDyZ8nlE8wNDlqxFXk73qvIUz//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGBwP/xAAtEAABAwQAAwYGAwAAAAAAAAADAQIEAAURMRITIQYUFSJBUQcyYXGBocHR8P/EABgBAQADAQAAAAAAAAAAAAAAAAQAAQID/8QAGxEBAAIDAQEAAAAAAAAAAAAAAQACAwQREhP/2gAMAwEAAhEDEQA/AA+0SrCtkiSRivYIav8AvioyEC+zB97BcHxk2gwj8if3Wp3iOO42CeBER5CAexEx646Vndmi8y2kUIiP5Ysm5jkTHXSIu9aqbWSxwrOmpjrfvojPsjdJdz77AuPASTH4V5rW45iLnae/Sm5LM9z1VFSl3w7ho68XSWNpUiI1BZI5FVX7/n91WSpTBmc1uqThW2MWGzHnIhBTmBaxvJIkYevyj2r/AMVmEXxmW4kkBmRkmKpSNUaKg1XeM6qkmgYYTnly9ztq7rmh3kJKgkiPerBZcxeDCK5Ou6vawd8gzetkDqwnsIbwhssLykJGI7PFvz+q/wC+lVRAjkPUgyNc1fWkTIwo8dgxNw3Fc+S3K9Xb96a6hWoDC/VtZWf/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAwUGAQIE/8QAKxAAAQMDAwIGAQUAAAAAAAAAAQIDBAURIQASMQYTBxQiQVGBcSNhkaHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgQD/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAxESIv/aAAwDAQACEQMRAD8ATO9FVaRQqepDrbz8trutONKFlq2X2EWx8YOphaahCp7Tfl5Cy6QLJScZtbS6i16uU9xuNCfK2nQf03AFhB5IF8J+tVFKqc6XakstuPS2Hg6SEi+03XY/OSM/nUNpwaJtUosbIWjNznWkMGFKBZa7rgcSboHF/wB840Ko+G06dLXK8zFa7vq2vGyx+Rt/3Weueo5rVebFKkFsljshJaSQm5Nxxm/Ob8/GpLeiUlBqaZ8yUgbVqBNkZJ2/3f7062XNhJ4YrG1Bp7shxwsuNOkWtbg251vJmGm199pEISn5YbWG1gEKIwBxe3tgjFxwddEV12K9BhNOq7LikOG9twN/Y6ZeH0duZ1RMlSQXH2WQEKVm11G+pq39dQ1LpyJaxCkivTJDyWmy0SE7k2bJHsB8Dj+NAahVVKd8B+WiO4AtKW2dwHpA5+tPuoG+/wBR1Jt1ay2m6wm+L40N6Q9dG10oGxOEgAcaBcxZ6M//2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgcF/8QAJxAAAQMDAgcAAwEAAAAAAAAAAQIDBAAFERITBiEiMUFRcWGBwfD/xAAYAQACAwAAAAAAAAAAAAAAAAABAgMEBv/EABwRAQADAAIDAAAAAAAAAAAAAAEAAhEDEhMhIv/aAAwDAQACEQMRAD8AT3K5JhkJQncc5Z9D7WXPvcmbJU8VJZzgBDQ0pH6FEJ0hqVeVznE5kAkJJJ5D5UzVIvMt6QN+TkrO6ndIGfIxnFVrOTfrXiyzXWXhviBMRIXMfaEc56nFBPgnufnbzSNtxLraVtHUhQyDUR4DDptsuLcWg5GDg0tujUPz/Ko9suimIu2lXSCcCiMbp5foMhLiG3u268yGiDtrUVtn2k/7FZrkVpZ3HGWyvySnmard3t8e4RNMlGopOUqHdPyp1JbShakpHLOKmKjBR7GMzW3tvCUAADkABgCn/DtoD1rbdlgpWslQHpPisjg20RJy3JEpBcU0RhBPSfop9SZBfkT0T//Z" width="28" height="28" alt="" />
@@ -3657,7 +3658,6 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcI/8QAKhAAAQMDAwEHBQAAAAAAAAAAAQIDBAAFERIhMVEGEyJBYXGBByNS4fD/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwL/xAAbEQACAwADAAAAAAAAAAAAAAABAgADEQQhIv/aAAwDAQACEQMRAD8AFzr8xbxhYK19BQ+HfZ98n4YmOWq3tnR3jbYW46eTyDgCs3uXaNl5ayhS1/Bpz+nN0NxtkxsR47joc+204M4z5+4qd9hA6luNWrN3NesjdwtrgZnXBq5MLTrbeCQhxHosDY7HY7cGmRsd4gK61n1zmC3xYiXGkNTXAheptR8aAjGceX6prtd1S9Bac/IZrVBLLphyFCWECcjx2WX29SBge3FXbUmIzKbRcpEqC2TtIijPwRn+9aghHB2A8R3q662l1pSFjKccUsNk1cqdhp6api7yWYlwcmRmsBkuEklsDbmjEO/lLCQp0pPTNJ9t8L0VYA1KSQT14qG9OqanFLZwnSNqV8jIN7Oz/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABgcIAgME/8QALRAAAQMDAgUDAgcAAAAAAAAAAQIDBAAFEQYhBxITMUEUMlEi4TNCYXKBofH/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwT/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADERMhEv/aAAwDAQACEQMRAD8AdqO1LHipqXVDF2RaNHdKO62wJEiU6kE4JIQhHMCPB/qmogDFKTiLAaOtyqQqSBJiBCSlWRjJz238nb53qlzFF0QoQO4Bivg8XtbaXv6E6jc9dHP4kZ5ttBx8gpGxqm7VcGrtaoVxh59PKZS8jm74UM1OPEvTVrdgtPLlvNutgoZTgLLzh7IHnvVD6EhO2zRlkhq97MNpK/3cgzRTZ9CN9fM5O9bobGAMmgDXrzU1x8uKMNcIMoEpKjkl0kdPHn8h/kUdM/U0lStzk0B3G8v2683cMNMqCpbaz1AVbpYax5rc1SlPZiSxg/kyj6VjQ5MZp/pzrohxt8JeOUNthY517ecZA/2j9MxrH2pTWfVs5qOh7oxVvS1Fx1a0qJV9QSB7vaAcAfets+/zpEgqKw3jYJbJAG5Pz+tTXmgwCVZbHOkz/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -3720,8 +3720,12 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1403761</div>
-                                        <div class="message">Edit roadmap</div>
+                                        <div class="sha">#c45e759</div>
+                                        <div class="message">Update input validation for version part argument in main function. (#39)
+
+* Update input validation for version part argument in main function.
+
+* Import logger</div>
                                     </div>
                                 </div>
                             </section>
@@ -3730,15 +3734,33 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Updated 1 wiki page in
-                                        <span class="repo">onuratakan/gpt-computer-assistant</span>
+                                        Merged
+                                        <span class="issue">#39 Update input validation for version part argument in main function.</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div class="page">Usage</div>
+                                    <div>opened by Abhinavcode13 in <span class="repo">onuratakan/gpt-computer-assistant</span></div>
+                                    <div>1 file changed <span class="code">++9 --0</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#39 Update input validation for version part argument in main function.</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Abhinavcode13 in <span class="repo">onuratakan/gpt-computer-assistant</span></div>
+                                    <div class="comment">Thanks.</div>
                                 </div>
                             </section>
                         </div>
@@ -3756,12 +3778,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#08e43de</div>
-                                        <div class="message">Fixed a bug in python code in the readme (#33)
-
-fixed a bug in the python code in the readme.
-
-changed `from gpt-comptuer-assistant import crew, agent` to `from gpt_computer_assistant import crew, agent`</div>
+                                        <div class="sha">#01fcbfd</div>
+                                        <div class="message">Organize import statements (#38)</div>
                                     </div>
                                 </div>
                             </section>
@@ -3774,29 +3792,12 @@ changed `from gpt-comptuer-assistant import crew, agent` to `from gpt_computer_a
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#33 fixed a bug in python code</span>
+                                        <span class="issue">#38 Refactoring import statements</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by AfsalAfzz-Pro in <span class="repo">onuratakan/gpt-computer-assistant</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#33 fixed a bug in python code</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by AfsalAfzz-Pro in <span class="repo">onuratakan/gpt-computer-assistant</span></div>
-                                    <div class="comment">This was good. Thank you =)</div>
+                                    <div>opened by Abhinavcode13 in <span class="repo">onuratakan/gpt-computer-assistant</span></div>
+                                    <div>1 file changed <span class="code">++4 --15</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3817,13 +3818,14 @@ changed `from gpt-comptuer-assistant import crew, agent` to `from gpt_computer_a
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="26.675675675675677 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="26.32 329"/>
                                         <text x="60" y="60" dominant-baseline="central">❤️</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.386666666666667 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👍</text>
                                     </svg>
                                 </div>
@@ -3848,21 +3850,21 @@ changed `from gpt-comptuer-assistant import crew, agent` to `from gpt_computer_a
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="40.013513513513516 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="39.48 329"/>
                                         <text x="60" y="60" dominant-baseline="central">👀</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="244.527027027027 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="241.26666666666665 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🚀</text>
                                     </svg>
                                 </div>
                                 <div class="category column">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge info">
                                         <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="17.783783783783786 329"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="17.546666666666667 329"/>
                                         <text x="60" y="60" dominant-baseline="central">🎉</text>
                                     </svg>
                                 </div>
@@ -4227,7 +4229,7 @@ changed `from gpt-comptuer-assistant import crew, agent` to `from gpt_computer_a
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="66.14625000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="67.5025 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -4250,9 +4252,9 @@ changed `from gpt-comptuer-assistant import crew, agent` to `from gpt_computer_a
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 17.5k out of 208m repositories</span>
+                                    <span class="gh">ranked 17.3k out of 209m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 2707 stars</div>
+                                <div class="text">Maintaining a repository with 2742 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -4265,7 +4267,7 @@ changed `from gpt-comptuer-assistant import crew, agent` to `from gpt_computer_a
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="49.2125 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="49.987500000000004 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -4296,9 +4298,9 @@ changed `from gpt-comptuer-assistant import crew, agent` to `from gpt_computer_a
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 53.7k out of 208m repositories</span>
+                                    <span class="gh">ranked 53.2k out of 209m repositories</span>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 227 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 229 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -4311,7 +4313,7 @@ changed `from gpt-comptuer-assistant import crew, agent` to `from gpt_computer_a
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="30.48333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -4348,9 +4350,9 @@ changed `from gpt-comptuer-assistant import crew, agent` to `from gpt_computer_a
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 35.1k out of 138m users</span>
+                                    <span class="gh">ranked 35k out of 138m users</span>
                                 </div>
-                                <div class="text">Followed by 259 users</div>
+                                <div class="text">Followed by 260 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -4626,7 +4628,7 @@ changed `from gpt-comptuer-assistant import crew, agent` to `from gpt_computer_a
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">onuratakan/gpt-computer-assistant</span>
+                            <span class="blue space">DawoodTouseef/gpt-computer-assistant</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -4634,7 +4636,7 @@ changed `from gpt-comptuer-assistant import crew, agent` to `from gpt_computer_a
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 4 Jun 2024, 22:53:45
+                            On 5 Jun 2024, 17:19:05
                         </div>
                     </section>
                 </div>
@@ -4644,17 +4646,17 @@ changed `from gpt-comptuer-assistant import crew, agent` to `from gpt_computer_a
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Changed options image
+                            Fix
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">9695e556</span>
-                            <span class="code">README.md</span>
+                            <span class="code">85a8c9f8</span>
+                            <span class="code">requirements.txt</span>
                             <span class="code">
-                                <span class="snippet additions">++3</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet additions">++1</span>
+                                <span class="snippet deletions">--4</span>
                             </span>
                         </div>
                     </section>
@@ -4662,14 +4664,14 @@ changed `from gpt-comptuer-assistant import crew, agent` to `from gpt_computer_a
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -146,7 +146,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">## Usage<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">![options](https://github.com/onuratakan/gpt-computer-assistant/assets/41792982/91fe041d-4a3f-4a6e-9294-20ce2fa1ca36)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">![options](https://github.com/onuratakan/gpt-computer-assistant/assets/41792982/20972b1e-6d4f-4314-8470-f2fcf79b6e6d)<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">** After first click to an option that include microphone or system audio you need to stop with another click to same option.</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -18,8 +18,5 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">pyperclip==1.8.2<br /></span><span class="token prefix unchanged">·</span><span class="token line">pydantic==2.7.2<br /></span><span class="token prefix unchanged">·</span><span class="token line">pillow==10.3.0<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;&lt;&lt;&lt;&lt;&lt;&lt; patch-1<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">langchainhub==0.1.17<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">=======<br /></span><span class="token prefix deleted">-</span><span class="token line">langchain_experimental<br /></span><span class="token prefix deleted">-</span><span class="token line">&gt;&gt;&gt;&gt;&gt;&gt;&gt; master<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">langchain_experimental==0.0.59</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jun 2024, 20:06:26 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jun 2024, 21:07:06 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
