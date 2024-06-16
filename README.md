@@ -11,6 +11,8 @@
     <br />
     <br />
 
+<img src="https://ghc.clait.sh/repo/onuratakan/gpt-computer-assistant?bg_color=ffffff&title_color=0366d6&text_color=333333&icon_color=333333&show_user=true" alt="GitHub Repo Card">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuratakan&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Most used languages">
   <br />
   <br />
