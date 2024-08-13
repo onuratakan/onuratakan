@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="5214" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="5234" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            9360 Commits
+                            9362 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    25.2k added, 21.5k removed
+                                    37.5k added, 25.6k removed
                                 </div>
                             </section>
                             <section>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    5.40k views in last two weeks
+                                    5.35k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -392,14 +392,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.1522451914404" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="343.1522451914404" y="0" width="28.994402517712818" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="372.1466477091532" y="0" width="28.82981242834291" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="400.97646013749613" y="0" width="27.642089441730867" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="428.61854957922696" y="0" width="14.96747270297606" height="8" fill="#fcb32c"/>
-                    <rect mask="url(#languages-bar)" x="443.58602228220303" y="0" width="10.059069810786802" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="453.64509209298984" y="0" width="5.265703002565762" height="8" fill="#1da6e0"/>
-                    <rect mask="url(#languages-bar)" x="458.91079509555556" y="0" width="1.0892049044443854" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.17102360104667" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="343.17102360104667" y="0" width="28.989742875192018" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="372.1607664762387" y="0" width="28.82517923682341" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="400.9859457130621" y="0" width="27.637647127210062" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="428.6235928402722" y="0" width="14.965067305168912" height="8" fill="#fcb32c"/>
+                    <rect mask="url(#languages-bar)" x="443.5886601454411" y="0" width="10.05745323429824" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="453.6461133797393" y="0" width="5.264856760136808" height="8" fill="#1da6e0"/>
+                    <rect mask="url(#languages-bar)" x="458.91097013987616" y="0" width="1.0890298601238995" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1447,7 +1447,7 @@
                             <div class="label" title="A bot is an application that runs automated tasks over the Internet.">bot</div>
                             <div class="label" title="Django is a web application framework for Python.">django</div>
                             <div class="label" title="A CLI, or command-line interface, is a console that helps users issue commands to a program.">command-line interface</div>
-                            <div class="label" title="GitHub API, Bash, Code quality, Raspberry Pi, iOS, Unity, Jupyter Notebook, Framework, Compiler, Ethereum, Cryptocurrency, Flask, Telegram, Continuous integration, Markdown, wordpress, Shell, Documentation, Operating system, Server, Deployment, xml, Project management, Serverless, P2P, IPFS, Publishing">and 27 more...</div>
+                            <div class="label" title="GitHub API, Code quality, Bash, Raspberry Pi, iOS, Unity, Jupyter Notebook, Framework, Compiler, Ethereum, Cryptocurrency, Flask, Telegram, Continuous integration, Markdown, wordpress, Shell, Documentation, Operating system, Server, Deployment, xml, Project management, Serverless, P2P, IPFS, Publishing">and 27 more...</div>
                         </div>
                     </section>
                 </div>
@@ -4614,7 +4614,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">Upsonic/Docs</span>
+                            <span class="blue space">Upsonic/gpt-computer-assistant</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -4622,7 +4622,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 11 Aug 2024, 11:50:56
+                            On 10 Aug 2024, 22:38:10
                         </div>
                     </section>
                 </div>
@@ -4632,14 +4632,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            fix: Name problem resolved about welcome to introduction
+                            chore: Update release_generation.yml workflow to include workflow_dispatch trigger and download DMG and EXE artifacts
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">701924b1</span>
-                            <span class="code">mint.json</span>
+                            <span class="code">7194f176</span>
+                            <span class="code">.github/workflows/release_generation.yml</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -4650,14 +4650,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -184,7 +184,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">{<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "group": "GPT Computer Assistant",<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "pages": [<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    "gca/welcome"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    "gca/introduction"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  ]<br /></span><span class="token prefix unchanged">·</span><span class="token line">},<br /></span><span class="token prefix unchanged">·</span><span class="token line">{</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -103,7 +103,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}<br /></span><span class="token prefix unchanged">·</span><span class="token line">with:<br /></span><span class="token prefix unchanged">·</span><span class="token line">  upload_url: ${{ steps.create_release.outputs.upload_url }}<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  asset_path: dist/*.dmg<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  asset_path: dist/*<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  asset_name: gpt-computer-assistant-openai.dmg<br /></span><span class="token prefix unchanged">·</span><span class="token line">  asset_content_type: application/octet-stream<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Aug 2024, 11:25:02 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Aug 2024, 12:22:47 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
