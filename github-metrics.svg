@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="5232" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="5259" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    31.4k added, 24.1k removed
+                                    415k added, 173k removed
                                 </div>
                             </section>
                             <section>
@@ -204,7 +204,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    5363 Stargazers
+                                    5364 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3468,62 +3468,62 @@
                             </div>
                             <div class="entry">
                                 <span class="value">5.35k</span>
-                                <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 9.625px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 27
                             </div>
                             <div class="entry">
                                 <span class="value">5.35k</span>
-                                <div class="bar" style="height: 17.5px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 16.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 28
                             </div>
                             <div class="entry">
                                 <span class="value">5.35k</span>
-                                <div class="bar" style="height: 22.499999999999996px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 21.5px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 29
                             </div>
                             <div class="entry">
                                 <span class="value">5.35k</span>
-                                <div class="bar" style="height: 27.500000000000004px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 30
                             </div>
                             <div class="entry">
                                 <span class="value">5.36k</span>
-                                <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 28.625px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 31
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 28.625px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 1
                                 <div class="bottom">Nov.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 28.625px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 2
                             </div>
                             <div class="entry">
                                 <span class="value">5.36k</span>
-                                <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 38.125px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 3
                             </div>
                             <div class="entry">
                                 <span class="value">5.36k</span>
-                                <div class="bar" style="height: 42.5px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 40.5px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 4
                             </div>
                             <div class="entry">
                                 <span class="value">5.36k</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 47.62500000000001px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 5
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 47.62500000000001px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 6
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
+                                <span class="value">5.36k</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 7
                             </div>
@@ -3600,8 +3600,8 @@
                                 6
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">+1</span>
+                                <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 7
                             </div>
                         </div>
@@ -3676,7 +3676,7 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYIAgP/xAAwEAACAQMDAgMECwAAAAAAAAABAwIEBREABiExURJBYQcUInETFhcjJDKBkaHB8P/EABcBAAMBAAAAAAAAAAAAAAAAAAADBAL/xAAeEQACAgICAwAAAAAAAAAAAAABAgARAwQSITFBYf/aAAwDAQACEQMRAD8Ac9uWVLbFB94j4/dfEIrieDH5d9LNI7eTlG7Wew0FHRD41UzwAyUfXnOf203WiFZdtuNWydDFEcghSPjOPXOudqlTujTpdVVzJ0pMAGS/OeoyPljnUeFw1y4Y78wttW7K3ptdVYKNdK2LCpyc9GDrj08/11n6qrf94IwGdMvs0tFNS2VjVQiVVTmP555Jx/X8ab4LRCIE4KjLtxpy3XUmYhGIka3687j2PYlWeouKUzZGRlGlxNhgehE+nlo97Lr9UbktVQDX/iAzD0gAMMc8c9v9nU5mpbKXhMuIjA0Rst7r7JWLuNteU1KiACOkgeoI8xp6ayhb9wGywf5KR+1io2fvU2R1WsWUwiTFic+7y7Agg4xg8566erj7UKZEkSa2mqQ1f0q2JIMTAk48/TUX7hrX1t9uFTUz8bmVLTI98k6O7Rvlwo7ZNNPUSisNOBk9hobGAomS3JyZ/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB0klEQVR4nK3Sz0vTcRzH8ff/URBIhw4ePASCIRoMy0w3XS7GbLOa1WRjcxuF3/KgEI48iBdPQocuuxV0iIK6hEJE4EG7VGCsqZvs8P3x2Xf7fL9f38H8Ord95+ezw+fD4/D9wvPzgi98wZSC1otpgZQnt8CU7tnmTx/avnKDhlcwngWEA+OpXzig6bvCAU1NduplFA9zNBPnllCd83aCLj7Cwj88tujCfW4MlcQEV1UK4mEOEY///uqkh0rMwyGFrPwe1o7xIcvvYx7Qo2MMlYTX+r17soiI1ZU0u9drQJ8dOVfMbe58ry8iUfXoKKs/BeXIcHvRMfPH17NFRHN769y4GZDHN9oytj4h91imnok77wKZGXKi79/wFxHNPz/J7IjzOmhhl+2h/VDNrne6GHM7r2thF6gPrrcwvn22jg6alIqt313c1+LjzrtqDajTA1z62vOmxf09LXmH0YMa7OeiX96dLZYKWsLL7kGdusZlFfP2pE6IFOL2oAT62LSkz14kGlmKcHsl0Aeyv5etvJE5+SXJcpwbyzUg+66y0c2PSClZneeWdSB7e9gqb1+TVylu1ghkd7dwIN++IhzINy8LB4rrknAgD15UBi8IVHR1/QcDAW45ly+hggAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQcABgIECP/EACgQAAEDAwMDAwUAAAAAAAAAAAECAwQFESEAEzEGElEHIjIUM0FCYf/EABgBAAMBAQAAAAAAAAAAAAAAAAACBAED/8QAGhEBAAMBAQEAAAAAAAAAAAAAAQACEQMhQf/aAAwDAQACEQMRAD8A59pdPdmyA0yLqOSTwB+Sf5pk0b0+hpqcmHXXpTCYyLuvxm91AVdHs9gV+qivnIFsG4GPpKhmDDq9W+odZlRWV7W0poH7ZFjucgkjCc6PUTp96tB96WlbUTtdbGyUoXuBtBbBDgPJcbBIA+VycE6qE3FySc6Dlre7FzJ6bMiDJmU1LhZYKQ4h0jvyCRbzwb4xqqLbIURprUqp1HpSsz4LzQcalMbStxy/ZdAcBC724PHGcjGqFWGG0VSUlCUhG4e0eB41o7OfXKYn2Eug6tAhVIN1hkPwHcOIVe17GxIBBIBNyLi9udXhua9Bqr8LpERpUSU4sttzQVoWhCMukEmx+eQbEKFwRwmUEg40RizpTIKGJDraVHIQsjQkenV5eEbMmQOhqo/U5siDVpsxhy7rb+6ghfgWFySL8dm2ogjNin5D+68taiSpRuTqSn3XV9zq1LWrlSjcnWtoCJaz0dZ//9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -4186,7 +4186,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.626 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.657 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -4209,9 +4209,9 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 8.74k out of 222m repositories</span>
+                                    <span class="gh">ranked 8.73k out of 227m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 5246 stars</div>
+                                <div class="text">Maintaining a repository with 5247 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -4255,7 +4255,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 24.3k out of 222m repositories</span>
+                                    <span class="gh">ranked 24.3k out of 227m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 485 times</div>
                             </div>
@@ -4624,7 +4624,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 4 Nov 2024, 16:24:58
+                            On 4 Nov 2024, 19:09:24
                         </div>
                     </section>
                 </div>
@@ -4640,8 +4640,8 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">2f423945</span>
-                            <span class="code">mint.json</span>
+                            <span class="code">8d4e6bb9</span>
+                            <span class="code">server/administering/control_users.mdx</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -4652,14 +4652,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -138,7 +138,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">{<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "group": "User-related",<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "pages": [<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    "server/administering/control_user",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    "server/administering/control_users",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">    "server/administering/set_permissions"<br /></span><span class="token prefix unchanged">·</span><span class="token line">  ]<br /></span><span class="token prefix unchanged">·</span><span class="token line">},</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -18,7 +18,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;Warning&gt;You cannot make any changes or deletions to the Robust Admin. It is defined from the beginning in the [configuration](/server/getting_started/install_on_prem#deployment).&lt;/Warning&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;img height="300" src="/images/users.svg" /&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;img height="300" src="/images/users.png" /&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Nov 2024, 06:10:56 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Nov 2024, 07:08:11 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
