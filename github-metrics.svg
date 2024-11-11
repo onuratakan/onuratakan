@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    33.9k added, 22.9k removed
+                                    390k added, 172k removed
                                 </div>
                             </section>
                             <section>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.01k views in last two weeks
+                                    1k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -1354,8 +1354,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="319.13 329"/>
-                                <text x="60" y="60" dominant-baseline="central">97</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
+                                <text x="60" y="60" dominant-baseline="central">99</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -4033,7 +4033,7 @@ Add a basic README file to explain that this is a Jupyter Notebook repository fo
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 5.29k out of 145m users</span>
+                                    <span class="gh">ranked 5.29k out of 148m users</span>
                                 </div>
                                 <div class="text">Published 700 public repositories</div>
                             </div>
@@ -4245,7 +4245,7 @@ Add a basic README file to explain that this is a Jupyter Notebook repository fo
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 8.75k out of 223m repositories</span>
+                                    <span class="gh">ranked 8.75k out of 225m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5249 stars</div>
                             </div>
@@ -4291,7 +4291,7 @@ Add a basic README file to explain that this is a Jupyter Notebook repository fo
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 24.3k out of 223m repositories</span>
+                                    <span class="gh">ranked 24.3k out of 225m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 486 times</div>
                             </div>
@@ -4374,7 +4374,7 @@ Add a basic README file to explain that this is a Jupyter Notebook repository fo
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 24k out of 145m users</span>
+                                    <span class="gh">ranked 24k out of 148m users</span>
                                 </div>
                                 <div class="text">Followed by 384 users</div>
                             </div>
@@ -4677,7 +4677,7 @@ Add a basic README file to explain that this is a Jupyter Notebook repository fo
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">f5553d05</span>
-                            <span class="code">upsonic_on_prem/dash/app/templates/libraries/control_element_header.html</span>
+                            <span class="code">upsonic_on_prem/dash/app/templates/libraries/control_library_header.html</span>
                             <span class="code">
                                 <span class="snippet additions">++2</span>
                                 <span class="snippet deletions">--2</span>
@@ -4688,14 +4688,14 @@ Add a basic README file to explain that this is a Jupyter Notebook repository fo
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -38,8 +38,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> &lt;div class="uk-navbar-right "&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">   &lt;ul class="uk-navbar-nav uk-margin-medium-right" style="gap: 0.5rem;"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">   {% yc_demo as yc_demo %}<br /></span><span class="token prefix deleted">-</span><span class="token line">   {% if not yc_demo %}<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">   {% yc_mode as yc_mode %}<br /></span><span class="token prefix inserted">+</span><span class="token line">   {% if not yc_mode %}<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">   &lt;a href="#" onclick="page_load('{% url 'control_element' id=control_library_with_version %}');event.preventDefault();" class="uk-button uk-button{% if sub_page_title == 'Home' %}-primary{% else %}-default{% endif %}"&gt;&lt;span uk-icon="home" class="uk-margin-small-right"&gt;&lt;/span&gt;Home&lt;/a&gt;<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -30,8 +30,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> &lt;div class="uk-navbar-right"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">     &lt;ul class="uk-navbar-nav uk-margin-medium-right" style="gap: 0.5rem;"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">   {% yc_demo as yc_demo %}<br /></span><span class="token prefix deleted">-</span><span class="token line">   {% if not yc_demo %}<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">   {% yc_mode as yc_mode %}<br /></span><span class="token prefix inserted">+</span><span class="token line">   {% if not yc_mode %}<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">     &lt;a href="#" onclick="page_load('{% url 'control_library' id=control_library_with_version %}');event.preventDefault();" class="uk-button uk-button{% if sub_page_title == 'Home' %}-primary{% else %}-default{% endif %}"&gt;&lt;span uk-icon="home" class="uk-margin-small-right"&gt;&lt;/span&gt;home&lt;/a&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Nov 2024, 19:07:41 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Nov 2024, 20:06:39 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
