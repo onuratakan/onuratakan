@@ -3981,7 +3981,7 @@ Add version information to diagnostic data</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 5.30k out of 139m users</span>
+                                    <span class="gh">ranked 5.30k out of 150m users</span>
                                 </div>
                                 <div class="text">Published 701 public repositories</div>
                             </div>
@@ -4193,7 +4193,7 @@ Add version information to diagnostic data</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 8.78k out of 223m repositories</span>
+                                    <span class="gh">ranked 8.78k out of 194m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5264 stars</div>
                             </div>
@@ -4239,7 +4239,7 @@ Add version information to diagnostic data</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 24.4k out of 223m repositories</span>
+                                    <span class="gh">ranked 24.4k out of 194m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 486 times</div>
                             </div>
@@ -4322,7 +4322,7 @@ Add version information to diagnostic data</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 24.1k out of 139m users</span>
+                                    <span class="gh">ranked 24.1k out of 150m users</span>
                                 </div>
                                 <div class="text">Followed by 386 users</div>
                             </div>
@@ -4643,7 +4643,7 @@ Add version information to diagnostic data</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Nov 2024, 12:07:54 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2024, 13:08:04 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
