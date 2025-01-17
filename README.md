@@ -7,7 +7,7 @@
   <h1 align="center">Onur Atakan ULUSOY</h1>
 
   <p align="center">
-    Hi there 👋 I’m currently working on the Python, Django, WEB, WordPress, Java, Robotics, Image Proccessing, Cyber Security and Blockchain.
+    Hi there 👋 I’m currently working on the Python, Django, WEB, WordPress, Java, Robotics, Image Proccessing, Cyber Security.
     <br />
     <br />
 
