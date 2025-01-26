@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    349k added, 204k removed
+                                    248k added, 53k removed
                                 </div>
                             </section>
                             <section>
@@ -204,7 +204,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    6179 Stargazers
+                                    6180 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3484,62 +3484,62 @@
                             </div>
                             <div class="entry">
                                 <span class="value">5.91k</span>
-                                <div class="bar" style="height: 3.6917562724014337px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 3.6875px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 14
                             </div>
                             <div class="entry">
                                 <span class="value">5.92k</span>
-                                <div class="bar" style="height: 5.224014336917563px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 5.214285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 15
                             </div>
                             <div class="entry">
                                 <span class="value">5.92k</span>
-                                <div class="bar" style="height: 6.075268817204301px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 6.0625px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 16
                             </div>
                             <div class="entry">
                                 <span class="value">5.92k</span>
-                                <div class="bar" style="height: 6.586021505376344px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 6.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 17
                             </div>
                             <div class="entry">
                                 <span class="value">5.93k</span>
-                                <div class="bar" style="height: 7.948028673835125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 7.928571428571429px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 18
                             </div>
                             <div class="entry">
                                 <span class="value">5.96k</span>
-                                <div class="bar" style="height: 11.863799283154123px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 11.830357142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 19
                             </div>
                             <div class="entry">
                                 <span class="value">6k</span>
-                                <div class="bar" style="height: 19.014336917562723px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 18.95535714285714px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 20
                             </div>
                             <div class="entry">
                                 <span class="value">6.03k</span>
-                                <div class="bar" style="height: 24.12186379928315px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 24.044642857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 21
                             </div>
                             <div class="entry">
                                 <span class="value">6.05k</span>
-                                <div class="bar" style="height: 27.69713261648746px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 27.607142857142858px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 22
                             </div>
                             <div class="entry">
                                 <span class="value">6.08k</span>
-                                <div class="bar" style="height: 32.80465949820789px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 32.69642857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 23
                             </div>
                             <div class="entry">
                                 <span class="value">6.15k</span>
-                                <div class="bar" style="height: 45.74372759856631px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 45.589285714285715px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 24
                             </div>
                             <div class="entry">
                                 <span class="value">6.17k</span>
-                                <div class="bar" style="height: 49.148745519713266px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 48.98214285714286px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 25
                             </div>
                             <div class="entry">
@@ -3619,8 +3619,8 @@
                                 25
                             </div>
                             <div class="entry">
-                                <span class="value">+5</span>
-                                <div class="bar" style="height: 3.289473684210526px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">+6</span>
+                                <div class="bar" style="height: 3.9473684210526314px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 26
                             </div>
                         </div>
@@ -3658,7 +3658,7 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAgCAwUG/8QAKxAAAQMEAQICCwAAAAAAAAAAAQIDBAAFESESMUEUcQYTFRYyUZKT0dLh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQQAAgP/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADEiEEETEi/9oADAMBAAIRAxEAPwBpwNUOZkYOFCpDIWNFJWMil4tPpzd4kVxqPJcDbusHePLPSoQZsmc8sesW2vBWVHeKhKqCSYa0e1gijZjAe14qZDiHX2m20a5LWACaNTIYUMpebI+YUKXCfMmwmmxKml5DitA6IIH9oD3gSnSnhnzqtbo699za+hqrDWR5MpFvd2oOgA7xnOa51d3udvuctluaYwCtcmxgjt2Nbci6OKWjLLJ+r9qCuLaJTq1PpC+J0D0FJk5exmkmv6X2CRr9MvDpZuLraxHBWlTaQDk9jVbjwQsp8Pzx3xRvhmUsOqS2kLKfixuoJuEjHVv7SPxRQ4jUHIBsbJjuf//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwEGBAUI/8QAKxAAAQMCBAUDBQEAAAAAAAAAAQIDBAAFBhESIQcTFDFBUYGhIjJCYXHB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxESBCL/2gAMAwEAAhEDEQA/AHlqjXHXFR6wXUw7TY3rmhglD7ozCNY7oGQ7jyaSmztQ3iXVbbzNjdVGaBceeDRbJOpaysH+b1mtcoJq81QtJBihhq+sYgsce5MJW1zRk40597SvKDWz5iR5qocOmwnDnN1ocMh0uFSBkD9CB/lWFXeqJ9DZNxw5EqGJ+KFhwuzpmuOP3DTn0jIzX7nsB8/qiuZxRt2IZTsqWWbRL2Ty3UrdbUgHY6h+Xg+u1D95mvz77cJEpet1chZJ96xnkjOm1QcYYarTWdEZbfxtVaZXRRYDc20NbNunNp1XqvyO+e2VLmFca2zE1oRcIj3IGotraeI1IUPHyK48QBlUxZTzaFpbcUlOs7CqKgUZA7dHZ//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYBBwIDCP/EACkQAAEDAgQFBAMAAAAAAAAAAAECAwQAEQUGEiETFDFBUSKBkaFCYnH/xAAXAQEBAQEAAAAAAAAAAAAAAAACBAMF/8QAHBEAAgMBAQEBAAAAAAAAAAAAAQIAAxEEBSFB/9oADAMBAAIRAxEAPwDp9UthMhtkrSHXAopBPXSQD9kVnx2+Y4Or16dftVYY9jrbeZIaorjjkhiWthTSAbAcQk383uPiiAmTJc519xaUlbZaKQnbSe29ca71VqOZ+yhKGYbHtU1gYgiCpY5hTReCf1BAv8kVvbcQ4nUhSVDyKQ5stMN57FHXAiY1GLCW72unsB72NHskSzNy1EfNt7i4/Kxtf6qmnvFx+CB6io2KuK5QlOZkXOXGD7RkcwlSSNj2267bUTlYfILhTy760Hr6SaeTUVjd5ddh0kxL0MBkrXMeBzMQnxA1FeU2hgtkEbdvP8ptylhpwnLsOFIShDjQVdKeguom33R6oqijjTnYtpOwNYW+T//Z" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQcIBAb/xAAvEAABAwMCAwUIAwAAAAAAAAABAgMEAAYRBRIHE1EWITFBYRQiJDNSgaLRscHi/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAECIQMRMRIi/9oADAMBAAIRAxEAPwCqPKktxHubUu3iNKYXJbhRAhxIjyOQpbpRuGT59MHu613PEC+tMstuN7ch1+TIzymWsZwPEknwFT/dN5dpr4b1OLADKOW2hTC1BwkjPv8Al1x9qORPzQsbipfXCmrXmSNQ0ONImpCZJ3JcA8MhRH9UXpZWzfUCBA0+DIacO9kuh5JBSrKv9CmLEkNy4rUhhe5pxIUk9RWx5YG1uiSOL9yJ1nixqCFq3xoChDbGe4bDhf5b6VuvPKkXHtZOCvltpx6gfutdyqUi8NcSFKPxjgyT3/MNDGjuuuHn601dU9k5WOzW5gagtPMOYEYBGPTKP1TNsm/W4lvssyUlSkk7fQdP5qeXZr72kzeYvOWzRTQZslWmoJeVnJqBp//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQcIBAb/xAAvEAABAwMCBAQEBwAAAAAAAAABAgMEAAYRBRIHEzFRFiFBYRQiJNEzUoGiscHi/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAECIQMRMSL/2gAMAwEAAhEDEQA/AKo6CktxHubUvHiNKYXJbhRAhxIjyOQpbpRuGT69sHy713PEC+tMstqN8ch1+TIzymWsZwOpJPQVP903l4mvdvU4sAMo5baFMLUHCSM/P6d8fpRmnqhY3FS9cKateZI1DQ40iakJknclwDpkKI/qi9LK2b6gQIGnwZDTh3sl0PJIKVZV/oUxYkhuXFakML3NOJCknuK2PLA2t0SRxfuROs8WNQQtW+NAUIbYz5DYcL/dvpW688qRce1k4K+W2nHuB9613KpSLw1xIUo/WODJPn+IaGNHddcPP501eNPZOVjs1uYGoLTzDmBGARj2yj7UzbJv1uJb7LMlJUpJO32Hb+anl2a+9pM3mLzls0U0GbJVpqCXlZyagaf/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYFAf/EACsQAAEDAgUDBAEFAAAAAAAAAAECAwQFEQAGEiExQVFhBxMUIhYjcZGhsf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAGxEAAgIDAQAAAAAAAAAAAAAAAREAAgMEIRL/2gAMAwEAAhEDEQA/AC6quNQnlw4qg4WTYOEdeT/HXGYiQlyR7n6bhsUWB2v3OK/M2SZrUtcmO44+NJQNwCbo0cbb2xiZBpcR3OMKBWA8hh1suAA6Fkjgd++OXxUdE2PH7PZczskzqDk12eKkhwvNBx9jYoKOToPe2N/Kn4kxSgK2txMtatYCEBQ0kC2+O+oiqOxkSXUAXULjRVw46bmyivYbEeb4F6exOehMKs9bSALg8YIL7Ds0FCol1KuJqFUcpjyruGG8v6mxbARsb+f36ecCCZDzUpp/3XQ+yoFtWogoIONTLc6QmdVJXuEyPiuHWefstCT/AEo4vPRugU6tPSahVI4kvRzpSlzdB25I6nFqgVBjppSHzJmOrZvqDDM2Y4uOk2YbUbBHkgcnFw3GlrabX8Z2yk33QRhVr0CEikR3EQ2EBqS0EoSnSkHUPtYdfOA/1oqsxGepEdp5bbMdltttCCQALav9UcSQy8HFHya7LuXP/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
@@ -4127,7 +4127,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.829 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.86 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -4150,9 +4150,9 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 7.61k out of 237m repositories</span>
+                                    <span class="gh">ranked 7.61k out of 236m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 6059 stars</div>
+                                <div class="text">Maintaining a repository with 6060 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -4232,7 +4232,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     inspirer
-                                    <span class="gh">ranked 20.6k out of 237m repositories</span>
+                                    <span class="gh">ranked 20.6k out of 236m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 569 times</div>
                             </div>
@@ -4634,7 +4634,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 24 Jan 2025, 18:54:48
+                            On 24 Jan 2025, 19:54:50
                         </div>
                     </section>
                 </div>
@@ -4644,13 +4644,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            changed 'deepseek-reasoner' to 'deepseek-chat'
+                            Update pricing for deepseek-chat model to reflect new input and output costs
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">d7f79437</span>
+                            <span class="code">06542d08</span>
                             <span class="code">src/upsonic/client/price.py</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
@@ -4662,14 +4662,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -3,7 +3,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  "azure/gpt-4o": {"input": 0.0000025, "output": 0.00001},<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "claude/claude-3-5-sonnet": {"input": 0.000003, "output": 0.000015},<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "bedrock/claude-3-5-sonnet": {"input": 0.000003, "output": 0.000015},<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  "deepseek/deepseek-reasoner": {"input": 0.00000055, "output": 0.00000219},<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  "deepseek/deepseek-chat": {"input": 0.00000055, "output": 0.00000219},<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">def get_estimated_cost(input_tokens: int, output_tokens: int, llm_model: str):</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -3,7 +3,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  "azure/gpt-4o": {"input": 0.0000025, "output": 0.00001},<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "claude/claude-3-5-sonnet": {"input": 0.000003, "output": 0.000015},<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "bedrock/claude-3-5-sonnet": {"input": 0.000003, "output": 0.000015},<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  "deepseek/deepseek-chat": {"input": 0.00000055, "output": 0.00000219},<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  "deepseek/deepseek-chat": {"input": 0.00000027, "output": 0.00000028},<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">}<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">def get_estimated_cost(input_tokens: int, output_tokens: int, llm_model: str):</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Jan 2025, 10:06:31 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jan 2025, 11:07:54 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
